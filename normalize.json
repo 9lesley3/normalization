@@ -1,0 +1,82 @@
+{
+  "dataOne" : {
+    "income" : "Até 150 reais",
+    "racial" : "Amarela",
+    "schooling" : "Ensino fundamental 1",
+    "schoolingStatus" : "Incompleto",
+    "gender" : "Masculino",
+    "birthday" : "01/01/1961"
+  },
+
+  "dataTwo" : {
+    "income" : "Entre 150 e 350",
+    "racial" : "Branca",
+    "schooling" : "Ensino fundamental 2",
+    "schoolingStatus" : "Incompleto",
+    "gender" : "Feminino",
+    "birthday" : "01/01/1976"
+  },
+
+  "dataThree" : {
+    "income" : "Entre 350 e 500",
+    "racial" : "Indígena",
+    "schooling" : "Ensino fundamental 2",
+    "schoolingStatus" : "Completo",
+    "gender" : "Outro",
+    "birthday" : "01/01/2002"
+  },
+
+  "dataFour" :{
+    "income" : "Entre 500 e 750",
+    "racial" : "Parda",
+    "schooling" : "Ensino médio",
+    "schoolingStatus" : "Completo",
+    "gender" : "Prefere não responder",
+    "birthday" : "01/01/1970"
+  },
+
+  "dataFive" :{
+    "income" : "Entre 750 e 1100",
+    "racial" : "Preta",
+    "schooling" : "Ensino médio",
+    "schoolingStatus" : "Incompleto",
+    "gender" : "Masculino",
+    "birthday" : "01/01/1923"
+  },
+
+  "dataSix" :{
+    "income" : "Entre 1100 e 2000",
+    "racial" : "Outra/Não deseja informar",
+    "schooling" : "Ensino superior",
+    "schoolingStatus" : "Cursando",
+    "gender" : "Feminino",
+    "birthday" : "01/01/1991"
+  },
+
+  "dataSeven" :{
+    "income" : "Mais de 2000",
+    "racial" : "Preta",
+    "schooling" : "Ensino superior",
+    "schoolingStatus" : "Completo",
+    "gender" : "Outro",
+    "birthday" : "01/01/1966"
+  },
+
+  "dataEight" :{
+    "income" : "Até 150 reais",
+    "racial" : "Preta",
+    "schooling" : "Ensino superior",
+    "schoolingStatus" : "Incompleto",
+    "gender" : "Prefere não responder",
+    "birthday" : "01/01/1954"
+  },
+
+  "dataNone" :{
+    "income" : "Até 150 reais",
+    "racial" : "Branca",
+    "schooling" : "Não determinado",
+    "schoolingStatus" : "Incompleto",
+    "gender" : "Masculino",
+    "birthday" : "01/01/1954"
+  }
+}

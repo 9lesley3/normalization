@@ -1,0 +1,117 @@
+3,8c3,7
+<     "income" : "Até 150 reais",
+<     "racial" : "Amarela",
+<     "schooling" : "Ensino fundamental 1",
+<     "schoolingStatus" : "Incompleto",
+<     "gender" : "Masculino",
+<     "birthday" : "01/01/1961"
+---
+>     "income" : "100.0",
+>     "racial" : "amarela",
+>     "schooling" : "5 do fundamental ",
+>     "gender" : "0",
+>     "age" : "60"
+12,17c11,15
+<     "income" : "Entre 150 e 350",
+<     "racial" : "Branca",
+<     "schooling" : "Ensino fundamental 2",
+<     "schoolingStatus" : "Incompleto",
+<     "gender" : "Feminino",
+<     "birthday" : "01/01/1976"
+---
+>     "income" : "200.0",
+>     "racial" : "branca",
+>     "schooling" : "7 série do fundamental",
+>     "gender" : "1",
+>     "age" : "45"
+21,26c19,23
+<     "income" : "Entre 350 e 500",
+<     "racial" : "Indígena",
+<     "schooling" : "Ensino fundamental 2",
+<     "schoolingStatus" : "Completo",
+<     "gender" : "Outro",
+<     "birthday" : "01/01/2002"
+---
+>     "income" : "360.0",
+>     "racial" : "indígena",
+>     "schooling" : "Fundamental completo",
+>     "gender" : "2",
+>     "age" : "19"
+30,35c27,31
+<     "income" : "Entre 500 e 750",
+<     "racial" : "Parda",
+<     "schooling" : "Ensino médio",
+<     "schoolingStatus" : "Completo",
+<     "gender" : "Prefere não responder",
+<     "birthday" : "01/01/1970"
+---
+>     "income" : "513.0",
+>     "racial" : "pardo",
+>     "schooling" : "2 grau completo ",
+>     "gender" : "3",
+>     "age" : "51"
+39,44c35,39
+<     "income" : "Entre 750 e 1100",
+<     "racial" : "Preta",
+<     "schooling" : "Ensino médio",
+<     "schoolingStatus" : "Incompleto",
+<     "gender" : "Masculino",
+<     "birthday" : "01/01/1923"
+---
+>     "income" : "783.0",
+>     "racial" : "preta",
+>     "schooling" : "Segundo grau incompeto",
+>     "gender" : "0",
+>     "age" : "98"
+48c43
+<     "income" : "Entre 1100 e 2000",
+---
+>     "income" : "1.101",
+50,53c45,47
+<     "schooling" : "Ensino superior",
+<     "schoolingStatus" : "Cursando",
+<     "gender" : "Feminino",
+<     "birthday" : "01/01/1991"
+---
+>     "schooling" : "Cursando o segundo grau",
+>     "gender" : "1",
+>     "age" : "30"
+57,62c51,55
+<     "income" : "Mais de 2000",
+<     "racial" : "Preta",
+<     "schooling" : "Ensino superior",
+<     "schoolingStatus" : "Completo",
+<     "gender" : "Outro",
+<     "birthday" : "01/01/1966"
+---
+>     "income" : "3000.0",
+>     "racial" : "preta",
+>     "schooling" : "Curso superior completo ",
+>     "gender" : "2",
+>     "age" : "55"
+66,71c59,63
+<     "income" : "Até 150 reais",
+<     "racial" : "Preta",
+<     "schooling" : "Ensino superior",
+<     "schoolingStatus" : "Incompleto",
+<     "gender" : "Prefere não responder",
+<     "birthday" : "01/01/1954"
+---
+>     "income" : "0.0",
+>     "racial" : "preta",
+>     "schooling" : "Ensino superior incompleto ",
+>     "gender" : "3",
+>     "age" : "67"
+75,76c67,68
+<     "income" : "Até 150 reais",
+<     "racial" : "Branca",
+---
+>     "income" : "100.0",
+>     "racial" : "branca",
+78,80c70,71
+<     "schoolingStatus" : "Incompleto",
+<     "gender" : "Masculino",
+<     "birthday" : "01/01/1954"
+---
+>     "gender" : "0",
+>     "age" : "67"

@@ -1,0 +1,73 @@
+{
+  "dataOne" : {
+    "income" : "100.0",
+    "racial" : "amarela",
+    "schooling" : "5 do fundamental",
+    "gender" : "0",
+    "age" : "60"
+  },
+
+  "dataTwo" : {
+    "income" : "200.0",
+    "racial" : "branca",
+    "schooling" : "7 série do fundamental",
+    "gender" : "1",
+    "age" : "45"
+  },
+
+  "dataThree" : {
+    "income" : "360.0",
+    "racial" : "indígena",
+    "schooling" : "Fundamental completo",
+    "gender" : "2",
+    "age" : "19"
+  },
+
+  "dataFour" :{
+    "income" : "513.0",
+    "racial" : "pardo",
+    "schooling" : "2 grau completo ",
+    "gender" : "3",
+    "age" : "51"
+  },
+
+  "dataFive" :{
+    "income" : "783.0",
+    "racial" : "preta",
+    "schooling" : "Segundo grau incompeto",
+    "gender" : "0",
+    "age" : "98"
+  },
+
+  "dataSix" :{
+    "income" : "1.101",
+    "racial" : "Outra/Não deseja informar",
+    "schooling" : "Cursando o segundo grau",
+    "gender" : "1",
+    "age" : "30"
+  },
+
+  "dataSeven" :{
+    "income" : "3000.0",
+    "racial" : "preta",
+    "schooling" : "Curso superior completo ",
+    "gender" : "2",
+    "age" : "55"
+  },
+
+  "dataEight" :{
+    "income" : "0.0",
+    "racial" : "preta",
+    "schooling" : "Ensino superior incompleto ",
+    "gender" : "3",
+    "age" : "67"
+  },
+
+  "dataNone" :{
+    "income" : "100.0",
+    "racial" : "branca",
+    "schooling" : "Não determinado",
+    "gender" : "0",
+    "age" : "67"
+  }
+}
